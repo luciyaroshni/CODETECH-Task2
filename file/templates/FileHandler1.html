@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Upload your file here</title>
+        {% load static %}
+        <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+    </head>
+    <body>
+        <div class="container">
+            <h1>Upload your files here</h1>
+            <form id="upload-form" method="post" enctype="multipart/form-data">
+                {% csrf_token %}
+                <label id="label">Click here to upload your file</label>
+                <label for="file-upload" class="browse-btn">
+                    Browse your files
+                    <input id="file-upload" type="file" name="file">
+                </label>
+                <button type="submit" class="submit-btn">Submit</button>
+            </form>
+        </div>
+    </body>
+</html>
