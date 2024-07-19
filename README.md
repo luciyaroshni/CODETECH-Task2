@@ -16,11 +16,11 @@ Create a serverless application using AWS Lambda. This project will help you und
 
 <img width="929" alt="image" src="https://github.com/user-attachments/assets/9d7c08a9-5fcc-4889-b8f3-13aae5039d52">  </br>
 
-<img width="926" alt="image" src="https://github.com/user-attachments/assets/a0b3073f-9ec9-41a7-9986-fb027bcabef3">  
+<img width="926" alt="image" src="https://github.com/user-attachments/assets/a0b3073f-9ec9-41a7-9986-fb027bcabef3">  </br>
 
-<img width="926" alt="image" src="https://github.com/user-attachments/assets/1df5dc0d-0176-4de2-b5d2-b13d51af3657">  
+<img width="926" alt="image" src="https://github.com/user-attachments/assets/1df5dc0d-0176-4de2-b5d2-b13d51af3657">  </br>
 
-<img width="929" alt="image" src="https://github.com/user-attachments/assets/a8a5633c-cb77-4af0-8690-26bed69a55db">  
+<img width="929" alt="image" src="https://github.com/user-attachments/assets/a8a5633c-cb77-4af0-8690-26bed69a55db">  </br>
 
 **Key Activitie**
 
