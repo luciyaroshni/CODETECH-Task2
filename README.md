@@ -14,13 +14,13 @@ BUILDING A SERVERLESS APPLICATION WITH AWS LAMBDA
 
 Create a serverless application using AWS Lambda. This project will help you understand serverless computing and how to build applications without managing servers.
 
-<img width="929" alt="image" src="https://github.com/user-attachments/assets/9d7c08a9-5fcc-4889-b8f3-13aae5039d52">
+<img width="929" alt="image" src="https://github.com/user-attachments/assets/9d7c08a9-5fcc-4889-b8f3-13aae5039d52">  
 
-<img width="926" alt="image" src="https://github.com/user-attachments/assets/a0b3073f-9ec9-41a7-9986-fb027bcabef3">
+<img width="926" alt="image" src="https://github.com/user-attachments/assets/a0b3073f-9ec9-41a7-9986-fb027bcabef3">  
 
-<img width="926" alt="image" src="https://github.com/user-attachments/assets/1df5dc0d-0176-4de2-b5d2-b13d51af3657">
+<img width="926" alt="image" src="https://github.com/user-attachments/assets/1df5dc0d-0176-4de2-b5d2-b13d51af3657">  
 
-<img width="929" alt="image" src="https://github.com/user-attachments/assets/a8a5633c-cb77-4af0-8690-26bed69a55db">
+<img width="929" alt="image" src="https://github.com/user-attachments/assets/a8a5633c-cb77-4af0-8690-26bed69a55db">  
 
 **Key Activitie**
 
@@ -70,14 +70,14 @@ Create a serverless application using AWS Lambda. This project will help you und
 - Integration Challenges:
     - Encountered and resolved issues related to binary data handling and CORS configuration, which were crucial for ensuring proper communication between the web application and AWS services.
 
-  - Security Considerations:
-      - Configured bucket policies and access controls to ensure secure handling of uploaded files, avoiding unnecessary public access.
+- Security Considerations:
+    - Configured bucket policies and access controls to ensure secure handling of uploaded files, avoiding unnecessary public access.
 
-  - User Experience:
-      - Designed the file upload interface to be intuitive and easy to use, enhancing user interaction with the application.
+- User Experience:
+    - Designed the file upload interface to be intuitive and easy to use, enhancing user interaction with the application.
 
-  - Troubleshooting:
-      - Gained experience in debugging AWS Lambda functions and handling API Gateway configurations, leading to a deeper understanding of cloud-based application integration.
+- Troubleshooting:
+    - Gained experience in debugging AWS Lambda functions and handling API Gateway configurations, leading to a deeper understanding of cloud-based application integration.
 
 
 Designed to demonstrate the integration of cloud storage and serverless computing, this project provides practical experience in setting up an AWS S3 bucket, utilizing AWS Lambda for file processing, and connecting these services with a Django web application. It highlights skills in managing cloud infrastructure, handling file uploads, and creating secure, scalable web applications.
